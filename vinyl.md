@@ -2,20 +2,20 @@
 
 | Artist | Album | Year | Format | Weight (g) | Condition | Date Acquired | Price Paid | Notes |
 |---|---|---:|---|---:|---|---|---:|---|
-| The Cars | Candy-O | 1979 | LP |  | Near Mint | 11/11/2024 | 19.85 | Orange Vinyl |
-| The Cars | The Cars | 1968 | LP | | Near Mint | 09/12/2026 | 31.20 |  |
-| David Gilmour | Luck and Strange | 2024 | LP | | Near Mint | 05/07/2024 | 29.95 | | 
+| The Cars | Candy-O | 1979 | LP | 180 | Near Mint | 11/11/2024 | 19.85 | Orange Vinyl |
+| The Cars | The Cars | 1968 | LP | 180 | Near Mint | 09/12/2026 | 31.20 |  |
+| David Gilmour | Luck and Strange | 2024 | LP | 180 | Near Mint | 05/07/2024 | 29.95 | | 
 | Dire Straits | Dire Straits | 1978 | LP | 180 | Near Mint | 01/16/2015 |  | Included in The Studio Albums box set |
 | Dire Straits | Communiqué | 1979 | LP | 180 | Near Mint | 01/16/2015 | 0.00 | Included in The Studio Albums box set |
 | Dire Straits | Making Movies | 1980 | LP | 180 | Near Mint | 01/16/2015 | 0.00 | Included in The Studio Albums box set |
 | Dire Straits | Love Over Gold | 1982 | LP | 180 | Near Mint | 01/16/2015 | 0.00 | Included in The Studio Albums box set |
 | Dire Straits | Brothers in Arms | 1985 | LP | 180 | Near Mint | 01/16/2015 | 0.00 | Included in The Studio Albums box set |
 | Dire Straits | On Every Street | 1991 | LP | 180 | Near Mint | 01/16/2015 | 0.00 | Included in The Studio Albums box set |
-| Dire Straits | The Studio Albums | 1978-1991 | Box Set | 180g | Near Mint | 01/16/2015 | 159.00 | All Studio Albums in one set |
-| Fleetwood Mac | Rumors | 1977 | LP |  | Near Mint | 11/11/2026  | 17.63 |  | 
-| Fleetwood Mac | Fleetwood Mac | 1968 | LP | 180g | Near Mint | 03/01/2024 | 20.81 |  |
-| Foreigner  | 4 | 1981 | LP |  | Near Mint | 10/15/2022 | 18.50 |  |   
-| Roger Waters | The Pros & Cons of Hitch Hiking | 1984 | LP |  | Near Mint | 11/11/2026 | 196.00 | Hard to find |   
+| Dire Straits | The Studio Albums | 1978-1991 | Box Set | 180 | Near Mint | 01/16/2015 | 159.00 | All Studio Albums in one set |
+| Fleetwood Mac | Rumors | 1977 | LP | 180 | Near Mint | 11/11/2026  | 17.63 |  | 
+| Fleetwood Mac | Fleetwood Mac | 1968 | LP | 180 | Near Mint | 03/01/2024 | 20.81 |  |
+| Foreigner  | 4 | 1981 | LP | 180 | Near Mint | 10/15/2022 | 18.50 |  |   
+| Roger Waters | The Pros & Cons of Hitch Hiking | 1984 | LP | 180 | Near Mint | 11/11/2026 | 196.00 | Hard to find |   
 |  |  |  |  |  |  |  |  |  |   
 
 ## Suggested values
